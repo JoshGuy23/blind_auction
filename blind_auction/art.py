@@ -1,3 +1,4 @@
+# ASCII logo for use in the main program
 logo = '''
                          ___________
                          \         /
